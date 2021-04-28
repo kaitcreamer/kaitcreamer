@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kaitcreamer
-- 👀 I’m interested in email development, specifically usng React build systems to create accessible, interactive emails.
+- 👀 I’m interested in email development, specifically using React build systems to create accessible, interactive emails.
 - 🌱 I’m currently learning React and more front-end basics
 - 📫 Say hello and check out some of my work on my (definiitely outdated but hopefully charming) personal site, wanderingkait.com.
